@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grobid:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-30T12:10:58.410381337Z"
+    description: A Helm chart for Kubernetes
+    digest: 02a8a4bf48cd66c29b5147eb08b31fd5aa3aca4c11001b2000e34d365aff984e
+    name: grobid
+    type: application
+    urls:
+    - https://github.com/Softinator-TechLabs/grobid/grobid-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-30T12:10:58.407303554Z"
